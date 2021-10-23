@@ -1,16 +1,23 @@
 # meals
 
-A new Flutter project.
+## Projeto feito na aula do curso na udemy
 
-## Getting Started
+#### O aplicativo e um projeto que usuário adiciona comida com a receita o aplicativo já tem umas receita de comida
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td><img src="screenshot/Screenshot_0.png" width="300" height="600"></td>
+    <td><img src="screenshot/Screenshot_1.png" width="300" height="600"></td>
+    <td><img src="screenshot/Screenshot_2.png" width="300" height="600"></td>
+  </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+#### O usuário pode adicionar a receita no favorito e nas configurações, o usuário pode adicionar filtro para só pegar receitas que passa no filtro como receita sem glúten ou vegetariana.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="screenshot/Screenshot_3.png" width="300" height="600"></td>
+    <td><img src="screenshot/Screenshot_4.png" width="300" height="600"></td>
+    <td><img src="screenshot/Screenshot_5.png" width="300" height="600"></td>
+  </tr>
+</table>
